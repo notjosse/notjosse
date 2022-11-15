@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notjosse&label=Profile%20views&color=0e75b6&style=flat" alt="notjosse" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jossecarballo" target="blank"><img src="https://img.shields.io/twitter/follow/jossecarballo?logo=twitter&style=for-the-badge" alt="jossecarballo" /></a> </p>
-
 - 🌱 I’m currently learning **Helm, AWS, Bash Scripting**
 
 - 💬 Ask me about **Go, GCP, Kubernetes, Terraform**
