@@ -24,7 +24,7 @@
 
 ### Fun Stats
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=notjosse&" alt="notjosse" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=notjosse&" alt="notjosse" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notjosse&show_icons=true&locale=en&layout=compact" alt="notjosse" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notjosse&show_icons=true&locale=en&layout=compact" alt="notjosse" /></p>
+
 
