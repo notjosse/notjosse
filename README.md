@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Josse</h1>
-<h3 align="center">A Software Engineer focused on Cloud and Automation</h3>
+# Josse Carballo
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notjosse&label=Profile%20views&color=0e75b6&style=flat" alt="notjosse" /> </p>
+<h3 align="left">Welcome to my Github profile! I'm Josse, a Software Engineer focused on Cloud Engineering.</h3>
 
-- 🌱 I’m currently learning **Helm, AWS, Bash Scripting**
+<p align="left">I currently specialize in Google Cloud platform leveraging services such as GKE, Anthos, Cloud Build, Cloud Functions and Triggers.</p>
 
-- 💬 Ask me about **Go, GCP, Kubernetes, Terraform**
+- 🤓 Current skills include: **Python, Go, Kubernetes, Terraform**
+
+- 🌱 I’m currently learning: **Helm, AWS, Bash Scripting**
+
+- 💬 Ask me about: **Google Cloud Platform, CI/CD Pipelines, Automation**
+
+- 📜 Current certifications: **Google Associate Cloud Engineer (ACE), AWS Certified Cloud Practitioner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
