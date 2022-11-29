@@ -2,11 +2,11 @@
 
 <h3 align="left">Welcome to my Github profile! I'm Josse, a Software Engineer focused on Cloud Engineering.</h3>
 
-<p align="left">I currently specialize in Google Cloud platform leveraging services such as GKE, Anthos, Cloud Build, Cloud Functions and Triggers.</p>
+<p align="left">I currently specialize in GCP leveraging services such as GKE, Anthos, Cloud Build, Cloud Functions and Triggers for platform development. I believe that cloud computing provides a number of economic and technological advantages to the traditional data center model. I also enjoy automating repetitive tasks to improve workflow efficiencies and reduce toil. Feel free to connect with me on Linkedin or Twitter!</p>
 
 - 🤓 Current skills include: **Python, Go, Kubernetes, Terraform**
 
-- 🌱 I’m currently learning: **Helm, AWS, Bash Scripting**
+- 🌱 I’m currently learning: **Helm, AWS (in-depth), Bash Scripting**
 
 - 💬 Ask me about: **Google Cloud Platform, CI/CD Pipelines, Automation**
 
