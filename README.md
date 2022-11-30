@@ -26,3 +26,5 @@
 ### Fun Stats
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=notjosse&" alt="notjosse" /></p>
+
+[![Josse's github activity graph](https://activity-graph.herokuapp.com/graph?username=notjosse&theme=react-dark)](https://github.com/notjosse/github-readme-activity-graph)
