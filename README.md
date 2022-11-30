@@ -14,7 +14,7 @@
 
 - 💬 Ask me about: **Google Cloud Platform, CI/CD Pipelines, Automation**
 
-- 📜 Current certifications: **Google Associate Cloud Engineer (ACE), AWS Certified Cloud Practitioner**
+- 📜 Current certifications: **[Google Associate Cloud Engineer (ACE)](https://www.credential.net/539a9b1a-1328-4f6d-a6c5-6d8b1cf9eef7), [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8eab2fc4-707c-45a2-b9c4-7c39d993cf06/public_url)**
 
 ### Connect With Me
 <p align="left">
