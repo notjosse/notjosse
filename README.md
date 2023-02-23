@@ -29,5 +29,3 @@
 
 <br/>
 <br/>
-
-[![Josse's github activity graph](https://activity-graph.herokuapp.com/graph?username=notjosse&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
